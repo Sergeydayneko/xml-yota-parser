@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<chatTranscript startAt="2018-08-02T14:44:10Z" sessionId="00039aDP3BQY005W">
+  <newParty userId="00D35B6318BA0220" timeShift="0" visibility="ALL" eventId="1">
+    <userInfo personId="" userNick="Vasya Pupkin" userType="CLIENT" protocolType="FLEX" timeZoneOffset="180"
+      clientVersion="106"/>
+  </newParty>
+  <message userId="00D35B6318BA0220" timeShift="5" visibility="ALL" eventId="2">
+    <msgText>any text</msgText>
+  </message>
+</chatTranscript>

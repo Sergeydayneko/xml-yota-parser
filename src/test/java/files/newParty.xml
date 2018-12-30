@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<chatTranscript startAt="2018-08-02T14:44:10Z" sessionId="00039aDP3BQY005W">
+  <newParty userId="00D35B6318BA0220" timeShift="0" visibility="ALL" eventId="1">
+    <userInfo personId="" userNick="Vasya Pupkin" userType="CLIENT" protocolType="FLEX" timeZoneOffset="180"
+      clientVersion="106"/>
+  </newParty>
+  <newParty userId="00D35B6318C10222" timeShift="7" visibility="ALL" eventId="3">
+    <userInfo personId="bulatov.o" userNick="bulatov.o" userType="AGENT" protocolType="BASIC" timeZoneOffset="0"
+      clientVersion="105"/>
+    <userData>
+      <item key="GWS_USERID" type="string">968f34c619ca49afbf408520ec4b5a5c</item>
+    </userData>
+  </newParty>
+</chatTranscript>

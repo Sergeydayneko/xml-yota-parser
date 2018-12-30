@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<chatTranscript startAt="2018-08-02T14:44:10Z" sessionId="00039aDP3BQY005W">
+  <newParty userId="00D35B6318BA0220" timeShift="321093210983210931" visibility="ALL" eventId="1">
+    <userInfo personId="" userNick="Vasya Pupkin" userType="CLIENT" protocolType="FLEX" timeZoneOffset="180"
+      clientVersion="106"/>
+    <userData>
+      <item key="FirstName" type="string">Vasya</item>
+      <item key="IdentifyCreateContact" type="string">3</item>
+      <item key="LastName" type="string">Pupkin</item>
+      <item key="MediaType" type="string">chat</item>
+      <item key="TimeZone" type="string">180</item>
+      <item key="key1" type="string">value1</item>
+      <item key="key2" type="string">value2</item>
+    </userData>
+  </newParty>
+  <message userId="00D35B6318BA0220" timeShift="5" visibility="ALL" eventId="2">
+    <msgText>клиент_1</msgText>
+  </message>
+  <newParty userId="00D35B6318C10222" timeShift="7" visibility="ALL" eventId="3">
+    <userInfo personId="bulatov.o" userNick="bulatov.o" userType="AGENT" protocolType="BASIC" timeZoneOffset="0"
+      clientVersion="105"/>
+    <userData>
+      <item key="GWS_USERID" type="string">968f34c619ca49afbf408520ec4b5a5c</item>
+    </userData>
+  </newParty>
+  <message userId="00D35B6318C10222" timeShift="15" visibility="ALL" eventId="6">
+    <msgText>агент_1</msgText>
+  </message>
+  <notice userId="00D35B6318BA0220" timeShift="63" visibility="ALL" eventId="7">
+    <noticeText noticeType="SYS_COMMAND">file-uploaded</noticeText>
+    <userData>
+      <item key="file-deleted" type="string">true</item>
+      <item key="file-document-id" type="string">00039aDP3BQY0064</item>
+      <item key="file-id" type="string">00D35B6318F80223</item>
+      <item key="file-name" type="string">DB_PIC.jpg</item>
+      <item key="file-size" type="string">191855</item>
+      <item key="file-source" type="string">ucs</item>
+    </userData>
+  </notice>
+  <message userId="00D35B6318BA0220" timeShift="75" visibility="ALL" eventId="8">
+    <msgText>клиент_2</msgText>
+  </message>
+  <notice userId="00D35B6318BA0220" timeShift="108" visibility="ALL" eventId="9">
+    <noticeText noticeType="SYS_COMMAND">file-deleted</noticeText>
+    <userData>
+      <item key="file-id" type="string">00D35B6318F80223</item>
+      <item key="uploaded-event-id" type="string">7</item>
+    </userData>
+  </notice>
+  <message userId="00D35B6318BA0220" timeShift="135" visibility="ALL" eventId="10">
+    <msgText>клиент_3</msgText>
+  </message>
+  <partyLeft userId="00D35B6318BA0220" timeShift="143" visibility="ALL" eventId="11" askerId="00D35B6318BA0220">
+    <reason>left</reason>
+  </partyLeft>
+  <partyLeft userId="00D35B6318C10222" timeShift="144" visibility="ALL" eventId="12" askerId="00D35B6318C10222">
+    <reason code="2">left with request to close forcedly</reason>
+  </partyLeft>
+</chatTranscript>

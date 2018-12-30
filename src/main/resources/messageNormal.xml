@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<chatTranscript>
+<newParty eventId="1" timeShift="0" userId="00D35B6318BA0220" visibility="ALL">
+<userInfo clientVersion="106" protocolType="FLEX" timeZoneOffset="180" userNick="Vasya Pupkin" userType="CLIENT"/>
+</newParty>
+<message eventId="2" timeShift="5" userId="00D35B6318BA0220" visibility="ALL">
+<msgText>any text for testing</msgText>
+</message>
+</chatTranscript>

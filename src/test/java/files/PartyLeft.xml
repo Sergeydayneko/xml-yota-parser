@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<chatTranscript startAt="2018-08-02T14:44:10Z" sessionId="00039aDP3BQY005W">
+  <partyLeft userId="00D35B6318C10222" timeShift="144" visibility="ALL" eventId="12" askerId="00D35B6318C10222">
+    <reason code="2">left with request to close forcedly</reason>
+  </partyLeft>
+</chatTranscript>

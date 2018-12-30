@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<chatTranscript sessionId="00039aDP3BQY005W" startAt="2018-08-02T14:44:10Z">
+<newParty eventId="1" timeShift="0" userId="00D35B6318BA0220" visibility="ALL">
+<userInfo clientVersion="106" protocolType="FLEX" timeZoneOffset="180" userNick="Vasya Pupkin" userType="CLIENT"/>
+</newParty>
+<notice eventId="7" timeShift="63" userId="00D35B6318BA0220" visibility="ALL">
+<userInfo clientVersion="106" protocolType="FLEX" timeZoneOffset="180" userNick="Vasya Pupkin" userType="CLIENT"/>
+<noticeText noticeType="SYS_COMMAND">file-uploaded</noticeText>
+<userData>
+<item key="file-deleted">true</item>
+<item key="file-document-id">00039aDP3BQY0064</item>
+<item key="file-name">DB_PIC.jpg</item>
+<item key="file-size">191855</item>
+<item key="file-id">00D35B6318F80223</item>
+</userData>
+</notice>
+</chatTranscript>
